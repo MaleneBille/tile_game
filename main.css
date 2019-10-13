@@ -1,0 +1,13 @@
+body {
+    margin: 35px;
+    max-height: 100vh;
+    overflow: hidden;
+}
+.counter {
+    position: fixed;
+    top: 2px;
+    left: 35px;
+    background-color: darkgreen;
+    color: white;
+    padding: 3px;
+}
